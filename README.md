@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashwath Raj
 
-<!--
-**Ashwath-Raj/Ashwath-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I’m currently focused on:
+- **C programming** using *The C Programming Language* by Brian W. Kernighan and Dennis M. Ritchie (K&R)
+- **Python fundamentals** and building CLI tools
+- Mastering **data structures** like Linked Lists
+- Running and testing code in **remote Linux environments** via SSH
 
-Here are some ideas to get you started:
+📘 No frameworks, no fluff — just building strong foundations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Core Skills
+- CRUD with Linked Lists (C and Python)
+- Working directly with memory and pointers (C)
+- Writing clean CLI-based tools
+- Remote program execution using SSH
+
+## 📂 Projects (Built From Scratch)
+
+### [📋 Linked List CRUD - C & Python](#)
+- Implemented full Create, Read, Update, Delete operations
+- One version in C (manual memory handling)
+- Another in Python (dynamic list logic)
+- Shows deep understanding of data structures
+
+### [🌦️ Weather CLI Tool (OpenWeather API)](#)
+- Built earlier using Python and public API
+- Reads weather data based on city input
+- Practiced real-world API usage and error handling
+
+### [🖥️ Remote Python Execution via SSH](#)
+- Ran Python code from my PC on a remote Linux server
+- Used `ssh` and `scp` to connect and execute
+- Shows real-world system-level programming knowledge
+---
+
+> All projects are part of my core journey — no distractions, no bloated tools. Just mastering the craft.
+
