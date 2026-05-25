@@ -1,37 +1,32 @@
-# 👋 Hi, I'm Ashwath Raj
+# Hi, I'm Ashwath Raj 
 
-🔧 I’m currently focused on:
-- **C programming** using *The C Programming Language* by Brian W. Kernighan and Dennis M. Ritchie (K&R)
-- **Python fundamentals** and building CLI tools
-- Mastering **data structures** like Linked Lists
-- Running and testing code in **remote Linux environments** via SSH
+Computer Science Engineering student at SRM University-AP (CGPA: 9.78) focused on AI Systems Engineering, Applied Machine Learning, Intelligent Agents, and Quantum Computing.
 
-📘 No frameworks, no fluff — just building strong foundations.
+## Highlights
 
-## 🧠 Core Skills
-- CRUD with Linked Lists (C and Python)
-- Working directly with memory and pointers (C)
-- Writing clean CLI-based tools
-- Remote program execution using SSH
+- Program Development Intern @ RURO (GOPIKA AI Initiative)
+- Research Author – ICML-ALGO 2025
+- 16+ National Hackathons
+- 250+ LeetCode Problems Solved
+- Guest Speaker on Quantum Computing (700+ Students)
 
-## 📂 Projects (Built From Scratch)
+## Current Work
 
-### [📋 Linked List CRUD - C & Python](#)
-- Implemented full Create, Read, Update, Delete operations
-- One version in C (manual memory handling)
-- Another in Python (dynamic list logic)
-- Shows deep understanding of data structures
+- GOPIKA – Multimodal AI Assistant Ecosystem
+- Retrieval-Augmented Generation (RAG)
+- Local LLM Integration & Agentic Workflows
+- Document Intelligence Systems
+- AI Engineering & Backend Architecture
+- Quantum Communication & Distributed Computing
 
-### [🌦️ Weather CLI Tool (OpenWeather API)](#)
-- Built earlier using Python and public API
-- Reads weather data based on city input
-- Practiced real-world API usage and error handling
+## Technical Interests
 
-### [🖥️ Remote Python Execution via SSH](#)
-- Ran Python code from my PC on a remote Linux server
-- Used `ssh` and `scp` to connect and execute
-- Shows real-world system-level programming knowledge
----
+- Applied AI
+- Agentic Systems
+- Machine Learning
+- System Design
+- Distributed Systems
+- Optimization
+- Quantum Computing
 
-> All projects are part of my core journey — no distractions, no bloated tools. Just mastering the craft.
-
+I enjoy building systems that transform research concepts into practical, deployable engineering solutions.
