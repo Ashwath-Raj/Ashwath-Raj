@@ -1,6 +1,6 @@
 # Hi, I'm Ashwath Raj 
 
-Computer Science Engineering student at SRM University-AP (CGPA: 9.78) focused on AI Systems Engineering, Applied Machine Learning, Intelligent Agents, and Quantum Computing.
+Computer Science Engineering student at SRM University-AP (CGPA: 9.69) focused on AI Systems Engineering, Applied Machine Learning, Intelligent Agents, and Quantum Computing.
 
 ## Highlights
 
